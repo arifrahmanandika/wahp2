@@ -1,0 +1,15 @@
+DB_HOST=
+DB_USER=
+DB_PASS=
+DB_NAME=
+DB_PORT=
+USER_TERMINAL=
+PORT=
+CENTER_TARIKMK=
+HP_TARIKMK=
+HP_TARIK_ARIFIN=
+CENTER_TARIKGP=
+NO_HP_LDLGP=
+
+PESAN_TELP=*📵Maaf, Panggilan suara tidak diizinkan!*
+📝Untuk keperluan Komplain/Konfirmasi/Informasi silahkan chat ke CS. 082313131323

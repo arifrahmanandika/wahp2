@@ -1,0 +1,4 @@
+.wanode_cache
+node_modules
+Session
+.env
